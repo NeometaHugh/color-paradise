@@ -9,7 +9,7 @@ or RUN: java -jar ./target/color-paradise-0.1.0-SNAPSHOT-standalone.jar
 
 ## Usage
 
-FIXME
+a game
 
 ## License
 
